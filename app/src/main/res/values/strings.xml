@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FactApp</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="all">TODO</string>
+    <string name="facebook_app_id">799503694841303</string>
+    <string name="fb_login_protocol_scheme">fb799503694841303</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="hintemail">Correo Electronico</string>
+    <string name="hintpass">Contraseña</string>
+    <string name="textbtnLogin">Autenticar</string>
+    <string name="texttextView">¿No tienes una cuenta?</string>
+    <string name="texttextViewRegister">Registrar</string>
+    <string name="texttextViewReg">¿Ya posees una cuenta?</string>
+    <string name="textViewLogin">Ingresar</string>
+    <string name="textCarrito">Carrito</string>
+    <string name="hintnombreProd">Nombre de producto</string>
+    <string name="hintnumberinvoice">Numero de factura</string>
+    <string name="hintprecio">Digite Precio</string>
+    <string name="textguardar">Guardar</string>
+    <string name="textcancelar">Cancelar</string>
+    <string name="textcomprar">Comprar</string>
+    <string name="textProducto">Producto</string>
+    <string name="textInvoice">Factura</string>
+    <string name="hintIndicaciones">Indicaciones del producto</string>
+    <string name="hintContraIndicaciones">Contraindicaciones del producto</string>
+    <string name="hintTipo">Tipo Factura</string>
+    <string name="hintFecha">Fecha Factura</string>
+    <string name="hintCliente">Proveedor</string>
+    <string name="hintConcepto">Concepto Factura</string>
+    <string name="hintTotal">Total Factura</string>
+</resources>
